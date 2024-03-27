@@ -1,4 +1,4 @@
-package day0326_ex;
+package day0326_ex.array;
 
 import javax.swing.plaf.synth.SynthOptionPaneUI;
 

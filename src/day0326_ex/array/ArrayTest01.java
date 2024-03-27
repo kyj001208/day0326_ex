@@ -1,4 +1,4 @@
-package day0326_ex;
+package day0326_ex.array;
 
 public class ArrayTest01 {
 

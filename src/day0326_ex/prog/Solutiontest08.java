@@ -28,7 +28,7 @@ public class Solutiontest08 {
 		int[] cleannum = new int[num.length];
 
 		for (int i = 0; i < storage.length; i++) {
-
+			
 			for (int c = 0; c < cleanStorage.length; c++) {
 				// 새로운 함이 비어있으면(null) 넣으면 됌
 
